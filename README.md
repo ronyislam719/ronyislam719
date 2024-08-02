@@ -1,7 +1,7 @@
 (https://www.facebook.com/Rony Islam)  [<img 
 
 ### Hi there 👋, I'm Rony Islam
-#### Software Development
+#### Software Developer
 ![Software Development](https://scontent.fdac138-1.fna.fbcdn.net/v/t39.30808-6/453723357_848090933917621_2159169495805799642_n.png?_nc_cat=111&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=YW1H9SrXTvUQ7kNvgESTUrb&_nc_ht=scontent.fdac138-1.fna&oh=00_AYC7cYyw6BCBH4ESC1m6_m91RrO9YXfKOAlE7X998TgSMQ&oe=66B23D2D)
 
 Hi, I'm Rahmatullah Islam Rony, a coder currently studying in Class 11. I'm proficient in HTML and also learning Python. I have work experience in online marketing. In my free time, I enjoy listening to music. I have a hobby in astronomy and an interest in computer science and engineering. My dream is to attend MIT for graduation.
